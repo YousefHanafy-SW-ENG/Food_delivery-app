@@ -38,9 +38,7 @@ Creating new items (backend you can create new items of food)
 
 Paypal payment (Paypal payment sync with database)
 
-![image1](https://user-images.githubusercontent.com/74376063/230909167-3a706344-fb08-4024-bc64-4f489efa0dc4.jpeg)
-![image1](https://user-images.githubusercontent.com/74376063/230909174-17b132b5-e11c-47b6-a6ed-58a1544b05d2.png)
-
-
-A few resources to get you started if this is your first Flutter project:
+![shop_app1](https://user-images.githubusercontent.com/74376063/231194771-e633e575-5500-4398-a104-7f70b2edbef6.png)
+![shop_app2](https://user-images.githubusercontent.com/74376063/231194838-55f14c7c-77bb-4391-bc2a-dd0ad5a69fe5.png)
+![shop_app3](https://user-images.githubusercontent.com/74376063/231194865-81a0b08e-f47c-4789-ae8a-b9e7f1f3445b.png)
 
